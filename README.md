@@ -7,7 +7,7 @@ Marwan Kandil · Hana Hashish · Badr Ouda
 
 ## Overview
 
-A data science project analysing the Cairo residential property market. Using a scraped listings dataset (`properties.csv`), the project walks through the full pipeline — from raw data cleaning to statistical hypothesis testing and multiple linear regression — to uncover what drives property prices across the city.
+A data science project analysing the Cairo residential property market. Using a scraped listings dataset (`properties.csv`), the project walks through the full pipeline from raw data cleaning to statistical hypothesis testing and multiple linear regression  to uncover what drives property prices across the city.
 
 ---
 
