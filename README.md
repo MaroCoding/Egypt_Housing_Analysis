@@ -1,4 +1,4 @@
-# 🏙️ Cairo Real Estate Market Analysis
+# 🏙️ Egypt Housing Analysis
 
 **Data Decoders Team**  
 Marwan Kandil · Hana Hashish · Badr Ouda
